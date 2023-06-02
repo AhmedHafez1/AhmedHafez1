@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Hafez
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Typescript, JavaScript, Angular, C#, ASP.Net & Design Patterns
+- 🌱 I’m currently learning Typescript, JavaScript, Angular, Nod.js, Mongo & React
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ahmed-hafez-5b2120b9/
 
 <!---
