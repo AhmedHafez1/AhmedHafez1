@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development, AI and Machine Learning.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ahmed-hafez-5b2120b9/
 
-<!---
-AhmedHafez1/AhmedHafez1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&layout=compact&theme=radical)
+
