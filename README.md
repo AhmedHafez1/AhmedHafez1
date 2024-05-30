@@ -6,7 +6,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1&theme=radical)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?AhmedHafez1=yourusername&theme=rogue)
-
 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/ahmed-hafez-5b2120b9/)
+(https://www.linkedin.com/in/ahmed-hafez-5b2120b9/)
