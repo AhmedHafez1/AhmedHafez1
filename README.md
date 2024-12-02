@@ -7,4 +7,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1&theme=radical)
 
 🌐 Connect with Me:
-Linkedin: https://www.linkedin.com/in/ahmed-hafez-5b2120b9/
+Linkedin: https://www.linkedin.com/in/ahmed-hafez-%F0%9F%87%B5%F0%9F%87%B8-5b2120b9/
