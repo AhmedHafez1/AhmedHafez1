@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Hafez
 - 👀 I’m interested in Software Development, AI and Machine Learning.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1&theme=radical)
 
