@@ -2,7 +2,7 @@
 👀 Passionate about Software Development, Artificial Intelligence, and Machine Learning.
 🌟 Building solutions that bridge technology and innovation.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1)
 
