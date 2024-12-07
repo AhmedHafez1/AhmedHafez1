@@ -6,7 +6,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AhmedHafez1)(https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AhmedHafez1)
 
 
 
