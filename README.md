@@ -6,11 +6,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedHafez1&theme=radical)
-
-![Ahmed's Weekly Development Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AhmedHafez1&theme=radical)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 🌐 Connect with Me:
