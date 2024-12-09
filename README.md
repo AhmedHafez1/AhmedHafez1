@@ -1,8 +1,7 @@
 # Hey there 👋
 
 ### Hi, I'm Ahmed Hafez!
-🌟 A Software Engineer | Full-stack | Angular | .Net | Node.js | React.js 🚀
-👀 Passionate about building solutions that bridge technology and innovation.
+🌟 A Software Engineer, passionate about building solutions that bridge technology and innovation 🚀 
 
 ---
 
@@ -30,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+
 ---
 
 ### Tools:
@@ -49,4 +49,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1)
 
 🌐 Connect with Me:
-Linkedin: https://www.linkedin.com/in/ahmed-hafez-%F0%9F%87%B5%F0%9F%87%B8-5b2120b9/
+Linkedin: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hafez-%F0%9F%87%B5%F0%9F%87%B8-5b2120b9/)
+
