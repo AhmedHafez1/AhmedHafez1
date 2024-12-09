@@ -1,19 +1,8 @@
-👋 Hi, I’m Ahmed Hafez
-👀 Passionate about Software Development, Artificial Intelligence, and Machine Learning.
-🌟 Building solutions that bridge technology and innovation.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1)
-
-
-🌐 Connect with Me:
-Linkedin: https://www.linkedin.com/in/ahmed-hafez-%F0%9F%87%B5%F0%9F%87%B8-5b2120b9/
-
 # Hey there 👋
 
-### Hi, I'm [Your Name]!
-A Software Engineer | Front-end | JavaScript | TypeScript | React.js 🚀
+### Hi, I'm Ahmed Hafez!
+🌟 A Software Engineer | Full-stack | Angular | .Net | Node.js | React.js 🚀
+👀 Passionate about building solutions that bridge technology and innovation.
 
 ---
 
@@ -31,5 +20,7 @@ A Software Engineer | Front-end | JavaScript | TypeScript | React.js 🚀
 ---
 
 ### GitHub Analytics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHafez1)
+
+🌐 Connect with Me:
+Linkedin: https://www.linkedin.com/in/ahmed-hafez-%F0%9F%87%B5%F0%9F%87%B8-5b2120b9/
