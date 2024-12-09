@@ -2,7 +2,8 @@
 
 ### Hi, I'm Ahmed Hafez!
 🌟 A Software Engineer, passionate about building solutions that bridge technology and innovation 🚀 
-#### Connect with Me:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hafez-%F0%9F%87%B5%F0%9F%87%B8-5b2120b9/)
+#### Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hafez-%F0%9F%87%B5%F0%9F%87%B8-5b2120b9/)
 
 ---
 
