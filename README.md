@@ -50,18 +50,8 @@
 ### GitHub Analytics:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez1&show_icons=true&theme=radical)
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHafez1&theme=solarized_dark)
-
-### GitHub Analytics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez1&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedHafez1&theme=github)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedHafez1&color=blueviolet)
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedHafez1&theme=github)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&layout=compact&theme=radical)
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=AhmedHafez1&theme=radical)
 
 
 
