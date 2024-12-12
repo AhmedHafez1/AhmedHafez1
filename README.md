@@ -48,4 +48,5 @@
 ---
 
 ### GitHub Analytics:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez1&show_icons=true&theme=radical)
 
