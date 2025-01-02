@@ -51,7 +51,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez1&show_icons=true&theme=radical)
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHafez1&theme=solarized_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&hide=c#,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&hide=c%23,css,scss,html&theme=tokyonight)
 
 
 
