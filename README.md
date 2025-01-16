@@ -45,12 +45,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 
----
-
-### GitHub Analytics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez1&show_icons=true&theme=radical)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHafez1&theme=solarized_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&hide=c%23&theme=tokyonight)
-
 
 
