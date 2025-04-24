@@ -44,8 +44,3 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez1&layout=compact&theme=github_dark)
-
-
-
